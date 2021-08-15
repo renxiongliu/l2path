@@ -11,4 +11,4 @@ devtools::install_github("renxiongliu/l2path")
 Note that the installation above requires using R package [devtools](https://CRAN.R-project.org/package=devtools)
 (which can be installed using `install.packages("devtools")`).
 
-Please check the accompanying vignette on how to use the `l2path` package. To read vignette, please refer to [vignette](https://github.com/renxiongliu/l2path/blob/main/vignettes/vignette.pdf)
+Please check the accompanying vignette on how to use the `l2path` package. To read vignette, please refer to the document [vignette](https://github.com/renxiongliu/l2path/blob/main/vignettes/vignette.pdf).
