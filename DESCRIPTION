@@ -1,0 +1,12 @@
+Package: l2path
+Type: Package
+Title: Some path-following algorithms for L2 regularization path
+Version: 1.0
+Date: 2021-07-28
+Author: Renxiong Liu and Yunzhang Zhu
+Maintainer: Renxiong Liu <liu.6732@osu.edu>
+Description: Fast computing L2-regularized solution path.
+License: GPL-2
+Imports: Rcpp (>= 1.0.7)
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 7.1.1

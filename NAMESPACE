@@ -1,0 +1,5 @@
+useDynLib(l2path, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
+export(l2main)
+import(Rcpp)
