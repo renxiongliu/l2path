@@ -2,7 +2,7 @@
 
 The `l2path` package contains implementation of path-following algorithms for both ridge regression and L2-regularized logistic regression.
 The details of the methods can be found in 
-[Zhu and Liu (2021): *An algorithmic view of $\ell_2$ regularization and some path-following algorithms*](https://jmlr.org/papers/volume22/19-477/19-477.pdf).
+[Zhu and Liu (2021): *An algorithmic view of L2 regularization and some path-following algorithms*](https://jmlr.org/papers/volume22/19-477/19-477.pdf).
 
 To install `l2path` from [github](http://github.com), type in R console
 ```R
